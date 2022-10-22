@@ -1,0 +1,3 @@
+What we are using to build it
+.Net core, Angular, Entity Framework
+HTml5, Bootstrap, Css, TypeScript, C#
